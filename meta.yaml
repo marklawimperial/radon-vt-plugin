@@ -7,7 +7,7 @@ displayName: RADON-h2020 Hello World
 title: A Greeting by RADON
 description: An example of plugin to be integrate in Che
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
-repository: https://github.com/radon-h2020/radon-defect-prediction-plugin
+repository: https://github.com/marklawimperial/radon-vt-plugin
 category: Other
 spec:
   extensions:
