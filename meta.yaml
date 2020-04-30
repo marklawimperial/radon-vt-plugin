@@ -11,4 +11,4 @@ repository: https://github.com/marklawimperial/radon-vt-plugin
 category: Other
 spec:
   extensions:
-    - https://raw.githubusercontent.com/marklawimperial/radon-vt-plugin/radon-vt-plugin.vsix
+    - https://github.com/marklawimperial/radon-vt-plugin/blob/master/radon-vt-plugin.vsix?raw=true
